@@ -1,0 +1,6 @@
+firstN = int(input("Enter ur first number : "))
+SecN = int(input("Enter ur second number : "))
+print(firstN,"+",SecN,"=",firstN + SecN)
+print(firstN,"-",SecN,"=",firstN-SecN)
+print(firstN,"x",SecN,"=",firstN*SecN)
+print(firstN,"/",SecN,"=",firstN/SecN)
